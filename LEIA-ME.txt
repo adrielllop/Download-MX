@@ -1,0 +1,20 @@
+MX SENSI PRO — PORTAL DE ACESSO
+
+COMO USAR
+1. Abra a pasta MX_SENSI_PRO_SITE.
+2. Abra o arquivo index.html no navegador para visualizar o site.
+3. Para publicar, envie os quatro arquivos da pasta para a raiz de sua hospedagem.
+   Não altere a estrutura ou os nomes sem atualizar as referências no HTML.
+
+ARQUIVOS
+- index.html: conteúdo da página e botões.
+- styles.css: design preto/laranja, responsividade e efeitos.
+- script.js: ano automático e efeito de hover.
+- mx-sensi-pro.png: imagem original enviada para a logo.
+
+DESTINOS DOS BOTÕES
+SITE: https://alpharede.com/m6VjRzgPCkK
+APLICATIVO: https://alpharede.com/BsHw5xMMbJI
+
+Os botões abrem esses endereços em nova aba. A página de destino é gerenciada pelos respectivos links.
+O site não usa servidor, login, biblioteca externa, nem coleta dados pessoais.
